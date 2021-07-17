@@ -1,4 +1,4 @@
-# <p style = "font-size : 50px; color : #000000 ; font-family : 'Comic Sans MS'; text-align : center; background-color : #ff0000; border-radius: 5px 5px;"><strong>🍷 Red Wine Quality Analysis</strong></p>
+# <p style = "font-size : 50px; color : #000000 ; font-family : 'Comic Sans MS'; text-align : center; background-color : #ff0000; border-radius: 5px 5px;"><strong>🍷 Wine Quality Analysis</strong></p>
 
 Con el siguiente conjuntos de datos aplicaremos Algoritmos de clasificación o regresión. Las clases están ordenadas y no equilibradas (por ejemplo, hay vinos buenos o malos)
  y comparare sus resultados 
